@@ -1,0 +1,85 @@
+name: westway_feed
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.13.1  
+  firebase_auth: ^4.6.1  
+  cloud_firestore: ^4.7.1
+  hidden_drawer_menu: ^3.0.1
+  intl: ^0.18.1
+  provider: ^6.0.5
+  google_fonts: ^4.0.3
+  collection: ^1.15.0
+  carousel_slider: ^4.2.1
+  auto_size_text: ^3.0.0
+  pdf: ^3.10.4
+  printing: ^5.11.0
+  outlined_text: ^1.0.1
+  firebase_storage: ^11.2.2
+  video_player: ^2.6.1
+  image_picker: ^0.8.7+5
+  flutter_spinkit: ^5.2.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  permission_handler: ^10.3.0
+  share_plus: ^7.0.2
+  flutter_swiper_null_safety: ^1.0.2
+  url_launcher: ^6.1.11
+  rxdart: ^0.27.7
+  keyboard_actions: ^4.2.0
+  agora_rtc_engine: ^6.2.0
+  uuid: ^3.0.7
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/RigSat.jpg
+    - assets/RigSat copy.gif
+    - assets/rsao.gif
+    - assets/rp.png
+    - assets/SmartPSS.png  
+    - assets/16.png  
+    - assets/32.png  
+    - assets/128.png  
+    - assets/256.png  
+    - assets/512.png  
+    - assets/1024.png  
+    - assets/a.png  
+    - assets/b.png  
+    - assets/c.png  
+    - assets/d.png  
+    - assets/e.png  
+    - assets/f.png  
+    - assets/g.jpg  
+    - assets/h.png  
+    - assets/i.jpg  
+    - assets/j.jpg  
+    - assets/l.png  
+    - assets/li.png  
+    - assets/m.jpg  
+    - assets/n.jpg  
+    - assets/o.png  
+    - assets/rsap.png  
+    - assets/PGD1.png  
+    - assets/image-6.png  
+    - assets/2-way-radios.png  
+    - assets/image-10.png  
+    - assets/laptop-1.png  
+    - assets/Intercom-link.jpg  
+    - assets/Mobile-Security-Trailer-2048x1536.jpg  
+    - assets/image-20.png  
+    - assets/westway.png  
+    - assets/west2.webp  

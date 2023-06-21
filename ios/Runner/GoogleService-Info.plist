@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>368131527485-d06qav1g9l9l7fa2j4050p5nvic24cdq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.368131527485-d06qav1g9l9l7fa2j4050p5nvic24cdq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChGOkUsQt4pe8HuOQlafUIy_lyn3iPqIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>368131527485</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emaren.westwayFeed</string>
+	<key>PROJECT_ID</key>
+	<string>westway-feed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>westway-feed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:368131527485:ios:a7caf8479a3c9f9547eb54</string>
+</dict>
+</plist>
